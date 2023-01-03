@@ -1,5 +1,6 @@
 #  Computer-Science
 This repo contains all the sub- subjects of computer science. Any person coming from non technical background can use this repository to learn computer science.
+
 ![giphy](https://user-images.githubusercontent.com/79036991/210357672-8f0311d8-48bf-4446-90b9-4eb66280f52e.gif)
 
 ## 0. Engineering Mathematics
