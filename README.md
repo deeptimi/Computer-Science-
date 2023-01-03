@@ -38,7 +38,22 @@ PROBABILITY AND STATISTICS
 - Minimization
 - Number representations and computer arithmetic(fixed and floating point)
 ## 2.Computer Organization and Architecture
+- Machine instructions and addressing modes
+- ALU , Data path and control unit
+- Instruction pipeliing and pipelining hazards
+- Memory hierarchy:cache , main  memory and seconadry storage
+- I/O interafce (Interrupt and DMA mode)
 ## 3. Programming and Data Structures
+- Programming in C
+- Recursion
+- Arrays
+- Stacks
+- Queues
+- Linked lists
+- Trees
+- Binary Search Trees
+- Binary heaps
+- Graphs
 ## 4.Algorithms
 ## 5.Theory of Computation
 ## 6.Compiler Design
