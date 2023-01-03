@@ -15,6 +15,8 @@ DISCRETE MATHS
 - Combinatorics: counting ; recurrence relatiions ; generating functions
 
 LINEAR ALGEBRA
+- LINK : https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+
 - Matrices
 - Determinants
 - System of linear equations
@@ -22,6 +24,8 @@ LINEAR ALGEBRA
 - LU decomposition
 
 CALCULUS
+- LINK : Single variable- https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
+- LINK : Multi Variable - https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
 - Limits , continuity and differentiability
 - Maxima & Minima
 - Mean Value Theorem
