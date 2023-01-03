@@ -55,8 +55,63 @@ PROBABILITY AND STATISTICS
 - Binary heaps
 - Graphs
 ## 4.Algorithms
+- Searching 
+- Sorting
+- Hashing
+- Asymptotic Worst Case Time and space complexity
+- Algorithm Design techniques:
+-- Greedy;
+--Dynamic Programming;
+--Divide and Conquer
+- Graph Traversals
+- Minimum spanning trees
+- Shortest Paths
 ## 5.Theory of Computation
+- Regular Expresions and Finite Automata
+- Context Free Grammar and Push Down Automata
+- Regular and context free languages
+- Pumping lemma
+- Turing Machines and undecidability
 ## 6.Compiler Design
+- Lexical Analysis
+- parsing
+- syntax directed translations
+- Runtime environments
+- Intermediate code generation
+- Local optimisation
+- Data flow analysis- constant propagation, liveness analysis , common subexpression elimination
 ## 7.Operating System
+- System calls
+- Processes
+- threads
+- Inter - process communication
+- concurrency and synchronization
+- Deadlock
+- CPU & I/O scheduling
+- Memory managemnet and virtual memory
+- File systems
 ## 8.Databases
+- E-R model
+- Relational model
+- Relational Algebra
+- Tuple calculus
+- SQL
+- Integrity Constraints
+- Normal forms
+- File organization
+- indexing(eg. B and B+ Trees)
+- Transactions and concurrency control
 ## 9.Computer Networks
+- Concept of layering : OSI and TCP/IP protocol stacks
+- Basics of packet, circuit and virtual circuit switching 
+- Data link layer: Framing , Error detection
+- Medium Access Control
+- Ethernet Bridging
+- Routing protocols : shortest path , flooding, distance vector and link state routing
+- Fragmentation and IP  addressing
+- IPv4
+- CIDR notation
+- Basics of IP support protocols(ARP, DHCP, ICMP)
+- Network Address Translation(NAT)
+- Transort Layer: Flow control and congesion control, UDP , TCP , sockets
+- Application layer protocols: DNS , SMTP , HTTP , FTP , email
