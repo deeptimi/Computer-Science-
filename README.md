@@ -1,6 +1,6 @@
-# Computer-Science-
+# 1. Computer-Science
 This repo contains all the sub- subjects of computer science. Any person coming from non technical background can use this repository to learn computer science.
-## Engineering Mathematics
+## 2. Engineering Mathematics
 DISCRETE MATHS
 - Propositions and first order logic
 - Sets, Relations , Functions
@@ -29,16 +29,16 @@ PROBABILITY AND STATISTICS
 - Mean , median , mode and standard deviation
 - Conditional probability and Bayes Theorem
 
-## Digital Logic
+## 3. Digital Logic
 - Boolean Algbra
 - Combinational and Sequential circuits
 - Minimization
 - Number representations and computer arithmetic(fixed and floating point)
-## Computer Organization and Architecture
-## Programming and Data Structures
-## Algorithms
-## Theory of Computation
-## Compiler Design
-## Operating System
-## Databases
-## Computer Networks
+## 4.Computer Organization and Architecture
+## 5. Programming and Data Structures
+## 6.Algorithms
+## 7.Theory of Computation
+## 8.Compiler Design
+## 9.Operating System
+## 10.Databases
+## 11.Computer Networks
