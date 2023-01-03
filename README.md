@@ -41,4 +41,4 @@ PROBABILITY AND STATISTICS
 ## 6.Compiler Design
 ## 7.Operating System
 ## 8.Databases
-## 10.Computer Networks
+## 9.Computer Networks
