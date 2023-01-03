@@ -32,6 +32,7 @@ CALCULUS
 - Integration
 
 PROBABILITY AND STATISTICS
+- Link: https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
 - Random Variables 
 - Uniform,normal , exponential, poisson and binomial distributions
 - Mean , median , mode and standard deviation
