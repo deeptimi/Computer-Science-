@@ -56,6 +56,7 @@ https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm
 - Memory hierarchy:cache , main  memory and seconadry storage
 - I/O interafce (Interrupt and DMA mode)
 ## 3. Programming and Data Structures
+Refer Freecodecamp for all 
 - Programming in C
 - Recursion
 - Arrays
