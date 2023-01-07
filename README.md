@@ -7,15 +7,15 @@ This repo contains all the sub- subjects of computer science. Any person coming 
 DISCRETE MATHS
 
 - LINK: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
-```
-- Propositions and first order logic
-- Sets, Relations , Functions
-- Partial orders and lattices
-- Monoids
-- Groups
-- Graphs : connectivity , matching , coloring
-- Combinatorics: counting ; recurrence relatiions ; generating functions
-```
+
+- [ ] Propositions and first order logic
+- [ ] Sets, Relations , Functions
+- [ ] Partial orders and lattices
+- [ ] Monoids
+- [ ] Groups
+- [ ] Graphs : connectivity , matching , coloring
+- [ ] Combinatorics: counting ; recurrence relatiions ; generating functions
+
 
 LINEAR ALGEBRA
 - LINK : https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
