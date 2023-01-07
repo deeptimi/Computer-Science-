@@ -4,7 +4,7 @@ This repo contains all the sub- subjects of computer science. Any person coming 
 ![giphy](https://user-images.githubusercontent.com/79036991/210357672-8f0311d8-48bf-4446-90b9-4eb66280f52e.gif)
 
 ## 0. Engineering Mathematics
-DISCRETE MATHS
+#####  *DISCRETE MATHS* 
 
 :robot: LINK: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
 
