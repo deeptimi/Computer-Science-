@@ -1,3 +1,4 @@
+
 #  Computer-Science
 This repo contains all the sub- subjects of computer science. Any person coming from non technical background can use this repository to learn computer science.
 
@@ -17,8 +18,8 @@ Access free [Course](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer
 - [ ] Combinatorics: counting ; recurrence relatiions ; generating functions
 
 
-LINEAR ALGEBRA
-- LINK : https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
+##### *LINEAR ALGEBRA*
+Access free [course](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 
 - [ ] Matrices
 - [ ] Determinants
