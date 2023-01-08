@@ -6,7 +6,7 @@ This repo contains all the sub- subjects of computer science. Any person coming 
 ## 0. Engineering Mathematics
 #####  *DISCRETE MATHS* 
 
-:robot: LINK: https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/
+Access free [Course](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) .
 
 - [ ] Propositions and first order logic
 - [ ] Sets, Relations , Functions
