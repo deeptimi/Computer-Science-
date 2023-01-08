@@ -19,31 +19,31 @@ This repo contains all the sub- subjects of computer science. Any person coming 
 
 LINEAR ALGEBRA
 - LINK : https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/
-```
-- Matrices
-- Determinants
-- System of linear equations
-- Eigen Values and Eigen vectors
-- LU decomposition
-```
+
+- [ ] Matrices
+- [ ] Determinants
+- [ ] System of linear equations
+- [ ] Eigen Values and Eigen vectors
+- [ ] LU decomposition
+
 CALCULUS
 - LINK : Single variable- https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
 - LINK : Multi Variable - https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
-```
-- Limits , continuity and differentiability
-- Maxima & Minima
-- Mean Value Theorem
-- Integration
-```
+
+- [ ] Limits , continuity and differentiability
+- [ ] Maxima & Minima
+- [ ]  Mean Value Theorem
+- [ ] Integration
+
 
 PROBABILITY AND STATISTICS
 - Link: https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
-```
-- Random Variables 
-- Uniform,normal , exponential, poisson and binomial distributions
-- Mean , median , mode and standard deviation
-- Conditional probability and Bayes Theorem
-```
+
+- [ ]  Random Variables 
+- [ ] Uniform,normal , exponential, poisson and binomial distributions
+- [ ] Mean , median , mode and standard deviation
+- [ ] Conditional probability and Bayes Theorem
+
 ## 1. Digital Logic
 - Link : You can consider these links !
 https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/
