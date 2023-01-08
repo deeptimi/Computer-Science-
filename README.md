@@ -27,9 +27,9 @@ Access free [course](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-201
 - [ ] Eigen Values and Eigen vectors
 - [ ] LU decomposition
 
-CALCULUS
-- LINK : Single variable- https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/
-- LINK : Multi Variable - https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/
+##### *CALCULUS*
+ [Single variable](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2006/)
+[Multi Variable](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 
 - [ ] Limits , continuity and differentiability
 - [ ] Maxima & Minima
