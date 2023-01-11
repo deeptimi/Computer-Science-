@@ -38,7 +38,7 @@ Access free [course](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-201
 
 
 PROBABILITY AND STATISTICS
-- Link: https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/
++ [Course Link !](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/)
 
 - [ ]  Random Variables 
 - [ ] Uniform,normal , exponential, poisson and binomial distributions
