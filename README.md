@@ -48,14 +48,14 @@ PROBABILITY AND STATISTICS
 ## 1. Digital Logic
 - Link : You can consider these links !
 + [Link1](https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/)
-+ & 
+ & 
 + [Link2](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
 - Boolean Algbra
 - Combinational and Sequential circuits
 - Minimization
 - Number representations and computer arithmetic(fixed and floating point)
-```
+
 ## 2.Computer Organization and Architecture
 - [Link1](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
 & [Link2](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
