@@ -47,9 +47,9 @@ PROBABILITY AND STATISTICS
 
 ## 1. Digital Logic
 - Link : You can consider these links !
-https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/
+[Link1](https://ocw.mit.edu/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/)
 & 
-https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm
+[Link2](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 ```
 - Boolean Algbra
 - Combinational and Sequential circuits
