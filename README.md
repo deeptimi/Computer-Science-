@@ -67,15 +67,15 @@ PROBABILITY AND STATISTICS
 ## 3. Programming and Data Structures
 Refer Freecodecamp for all 
 - [ ] Programming in C
-- [ ]Recursion
-- [ ]Arrays
-- [ ]Stacks
-- Queues
-- Linked lists
-- Trees
-- Binary Search Trees
-- Binary heaps
-- Graphs
+- [ ] Recursion
+- [ ] Arrays
+- [ ] Stacks
+- [ ] Queues
+- [ ] Linked lists
+- [ ] Trees
+- [ ] Binary Search Trees
+- [ ] Binary heaps
+- [ ] Graphs
 ## 4.Algorithms
 - Searching 
 - Sorting
