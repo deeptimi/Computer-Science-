@@ -51,19 +51,19 @@ PROBABILITY AND STATISTICS
  & 
 + [Link2](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
--[ ] Boolean Algbra
--[ ] Combinational and Sequential circuits
--[ ] Minimization
--[ ] Number representations and computer arithmetic(fixed and floating point)
+- [ ] Boolean Algbra
+- [ ] Combinational and Sequential circuits
+- [ ] Minimization
+- [ ] Number representations and computer arithmetic(fixed and floating point)
 
 ## 2.Computer Organization and Architecture
 - [Link1](https://youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q)
 & [Link2](https://ocw.mit.edu/courses/6-823-computer-system-architecture-fall-2005/)
--[ ] Machine instructions and addressing modes
--[ ] ALU , Data path and control unit
--[ ] Instruction pipeliing and pipelining hazards
--[ ] Memory hierarchy:cache , main  memory and seconadry storage
-- I/O interafce (Interrupt and DMA mode)
+- [ ] Machine instructions and addressing modes
+- [ ] ALU , Data path and control unit
+- [ ] Instruction pipeliing and pipelining hazards
+- [ ] Memory hierarchy:cache , main  memory and seconadry storage
+- [ ]I/O interafce (Interrupt and DMA mode)
 ## 3. Programming and Data Structures
 Refer Freecodecamp for all 
 - Programming in C
