@@ -63,13 +63,13 @@ PROBABILITY AND STATISTICS
 - [ ] ALU , Data path and control unit
 - [ ] Instruction pipeliing and pipelining hazards
 - [ ] Memory hierarchy:cache , main  memory and seconadry storage
-- [ ]I/O interafce (Interrupt and DMA mode)
+- [ ] I/O interafce (Interrupt and DMA mode)
 ## 3. Programming and Data Structures
 Refer Freecodecamp for all 
-- Programming in C
-- Recursion
-- Arrays
-- Stacks
+- [ ] Programming in C
+- [ ]Recursion
+- [ ]Arrays
+- [ ]Stacks
 - Queues
 - Linked lists
 - Trees
