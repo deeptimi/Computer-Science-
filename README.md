@@ -77,17 +77,17 @@ Refer Freecodecamp for all
 - [ ] Binary heaps
 - [ ] Graphs
 ## 4.Algorithms
-- Searching 
-- Sorting
-- Hashing
-- Asymptotic Worst Case Time and space complexity
-- Algorithm Design techniques:
--- Greedy;
+- [ ] Searching 
+- [ ] Sorting
+- [ ] Hashing
+- [ ] Asymptotic Worst Case Time and space complexity
+- [ ] Algorithm Design techniques:
+--Greedy;
 --Dynamic Programming;
 --Divide and Conquer
-- Graph Traversals
-- Minimum spanning trees
-- Shortest Paths
+- [ ] Graph Traversals
+- [ ] Minimum spanning trees
+- [ ] Shortest Paths
 ## 5.Theory of Computation
 - [ ] Regular Expresions and Finite Automata
 - [ ] Context Free Grammar and Push Down Automata
